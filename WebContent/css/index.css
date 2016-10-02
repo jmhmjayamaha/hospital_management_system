@@ -1,0 +1,33 @@
+@CHARSET "ISO-8859-1";
+body {
+	background: 	#46c0ee; 
+}
+#main {
+	margin-bottom : 20px;
+	margin-top: 20px;
+}
+#content {
+	width : 1000px;
+	margin-bottom : 10px;
+}
+#hedear img {
+	
+}
+#menu-bar {
+	float : left;
+}
+#sub-content {
+	clear : both;
+}
+#footer {
+	background-color : #00b0b0;
+	clear : both;
+	margin : 30 20 20 20;
+	padding : 50 50 50 50;
+	color : white;
+}
+
+#sub-content {
+	margin-top : 20px;
+	hegith : 600px;
+}

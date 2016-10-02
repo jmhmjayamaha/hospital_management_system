@@ -1,0 +1,25 @@
+@CHARSET "ISO-8859-1";
+#content {
+	width: 1000px;
+	padding-top: 50px;
+}
+
+button[type=submit], button[type=reset] {
+	float : Left;
+	margin-left : 10px;	
+}
+
+#go_back {
+	float : left;
+	margin-left : 10px;
+	margin-bottom : 30px;
+}
+#display-table {
+	display : none;
+}
+#show-table {
+	clear : both ;
+	float : left ;
+	margin-top : 30px;
+	margin-bottom : 20px;
+}
