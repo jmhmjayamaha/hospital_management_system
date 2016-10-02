@@ -19,8 +19,7 @@
  <mapping class="org.kawsoft.person.Staff"/>
  <mapping class="org.kawsoft.person.Patient"/>
  <mapping class="org.kawsoft.other.Comment"/>
- <mapping class="org.kawsoft.person.User"/>
- <mapping class="org.kawsoft.person.Login"/> 
+ <mapping class="org.kawsoft.person.User"/> 
 </session-factory>  
   
 </hibernate-configuration>  

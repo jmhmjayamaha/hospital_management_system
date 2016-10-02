@@ -27,12 +27,12 @@
 				<div id="menu-bar">
 					<ul class="menu cf">
 						<li><a href="#/">Home</a></li>
-						<li><a href="#">Medical Services</a>
+						<li><a href="">Medical Services</a>
 							<ul class="submenu">
-								<li><a href="#">Pain management</a></li>
-								<li><a href="#">Nuerology and neurosurgery</a></li>
+								<li><a href="">Pain management</a></li>
+								<li><a href="">Nuerology and neurosurgery</a></li>
 							</ul></li>
-						<li><a href="#gallery">Gallery</a></li>
+						<li><a href="gallery.html" target="_blank">Gallery</a></li>
 						<li><a href="#contact">Contact</a></li>
 					</ul>
 				</div>
@@ -65,9 +65,9 @@
 			.when("/", {
 				templateUrl : "home.jsp"
 			})
-			.when("/gallery" , {
+			/* .when("/gallery" , {
 				templateUrl : "gallery.html"
-			})
+			}) */
 			.when("/contact" , {
 				templateUrl : "contact.jsp"
 			});
